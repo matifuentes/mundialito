@@ -1,0 +1,20 @@
+/* Archivo CSS personalizado */
+body {
+  font-family: Arial, sans-serif;
+}
+header {
+  background: linear-gradient(to right, #0062cc, #004085);
+}
+main {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.fixture-score {
+  width: 60px; /* Ancho fijo del marcador */
+  text-align: center; /* Centrar el texto */
+}
+
+.btn-sm {
+  padding: 0.25rem 0.5rem; /* Botones más compactos */
+}
